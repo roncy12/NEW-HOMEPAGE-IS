@@ -1,9 +1,9 @@
-(window["webpackJsonp"] = window["webpackJsonp"] || []).push([[21],{
+(window["webpackJsonp"] = window["webpackJsonp"] || []).push([[26],{
 
-/***/ "./assets/js/theme/errors.js":
-/*!***********************************!*\
-  !*** ./assets/js/theme/errors.js ***!
-  \***********************************/
+/***/ "./assets/js/theme/subscribe.js":
+/*!**************************************!*\
+  !*** ./assets/js/theme/subscribe.js ***!
+  \**************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -18,21 +18,21 @@ function _inherits(subClass, superClass) { if (typeof superClass !== "function" 
 
 
 
-var Errors = function (_PageManager) {
-  _inherits(Errors, _PageManager);
+var Subscribe = function (_PageManager) {
+  _inherits(Subscribe, _PageManager);
 
-  function Errors() {
-    _classCallCheck(this, Errors);
+  function Subscribe() {
+    _classCallCheck(this, Subscribe);
 
     return _possibleConstructorReturn(this, _PageManager.apply(this, arguments));
   }
 
-  return Errors;
+  return Subscribe;
 }(_page_manager__WEBPACK_IMPORTED_MODULE_0__["default"]);
 
-/* harmony default export */ __webpack_exports__["default"] = (Errors);
+/* harmony default export */ __webpack_exports__["default"] = (Subscribe);
 
 /***/ })
 
 }]);
-//# sourceMappingURL=theme-bundle.chunk.21.js.map
+//# sourceMappingURL=theme-bundle.chunk.26.js.map
